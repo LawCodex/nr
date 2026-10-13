@@ -1,0 +1,61 @@
+---
+title: "Business Tax (Rates of Tax) Regulations 2017"
+identifier: "3915e095e32ea90bab3c3b7de8bad8ad"
+type: regulation
+jurisdiction: nr
+language: en
+year: 2017
+consolidation: "none (text as published)"
+status: unknown
+source: "https://ronlaw.gov.nr/pdfviewer/docs%252Flaws%252F2017%252FBusiness_Tax_%2528Rates_of_Tax%2529_Regulations_2017.pdf"
+source_file: "/docs/laws/2017/Business_Tax_(Rates_of_Tax)_Regulations_2017.pdf"
+format_note: "text extracted (by RONLAW) from the official PDF; layout not preserved"
+retrieved: 2026-10-13
+---
+# Business Tax (Rates of Tax) Regulations 2017
+
+BUSINESS TAX (RATES OF TAX) REGULATIONS 2017 ______________________________ SL No. 17 of 2017 ______________________________ Notified: 3rd August 2017 Table of Contents Cabinet makes the following Regulations under section 46 of the Business Tax Act 2016:
+
+#### 1 Citation
+
+These Regulations may be cited as the Business Tax (Rates of Tax) Regulations 2017.
+
+#### 2 Commencement
+
+(1) Clause 1(d) and Clause 2 of the Schedule are deemed to have commenced on 1 July 2017.
+
+(2) All other clauses of the Schedule are deemed to have commenced on 1 July 2016.
+
+#### 3 Amendment of the Business Tax Act 2016
+
+These Regulations amend the Business Tax Act 2016.
+
+#### 4 Amendment of Schedule 1
+
+Schedule 1 of the Act is omitted and substituted with the following:
+
+## SCHEDULE 1
+
+sections 11, 12, 13 and 14 RATES OF TAX
+
+(1) The rate of business profits tax:
+
+(a) for a resident individual, is Taxable Income Rate $0 – $250,000 0% Above $250,000 10%
+
+(b) for a partnership, is 10% on taxable income reduced by $250,000 in respect of each resident individual member;
+
+(c)  for a trust, is 10% on taxable income reduced by $250,000 in respect of each resident individual beneficiary;
+
+(d)  for a company:
+
+(i) Category A: (Annual gross revenue $0 - $15,000,000) is 10%;
+
+(ii) Category B: (Annual gross revenue above $15,000,000) is 20%;
+
+(e)  for any other person, is 10%.
+
+(2) The rate of small business tax is 2.5%.
+
+(3) The rate of non-resident tax is 10%.
+
+(4) The rate of international transportation business tax is 0%.

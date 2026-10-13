@@ -1,0 +1,95 @@
+---
+title: "Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002"
+identifier: "b0eaf6eb2a4b3dc2c36ad9d7ea805718"
+type: regulation
+jurisdiction: nr
+language: en
+year: 2002
+consolidation: "Laws of the Republic of Naoero, Service 6"
+status: in_force
+source: "https://ronlaw.gov.nr/pdfviewer/docs%252Flaws%252F2002%252FParliamentary%2520Powers%252C%2520Privileges%2520and%2520Immunities%2520%2528Issue%2520of%2520Summons%2529%2520Rules%25202002_serv6.pdf"
+source_file: "/docs/laws/2002/Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002_serv6.pdf"
+format_note: "text extracted (by RONLAW) from the official PDF; layout not preserved"
+retrieved: 2026-10-13
+---
+# Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002
+
+Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002 TABLE OF PROVISIONS Rule Title
+
+#### 1 Citation
+
+#### 2 Forms
+
+## SCHEDULE
+
+FORM A — SUMMONS TO WITNESS FORM B — AFFIDAVIT OF SERVICE OF SUMMONS FORM C — CERTIFICATE TO BE GIVEN BY THE SPEAKER WHEN THE WITNESS HAS DISOBEYED SUMMONS FORM D — OATH AND AFFIRMATION Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002
+
+## Table of Amendments
+
+The Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002 were notified and commenced on 12 June 2002 (GN No 119/2002; Gaz 27/2002).
+
+Amending Legislation Notified Date of Commencement Revised Written Laws Act 2021 No 7 1 June 2021 1 June 2021 Constitution (Amendment) (No 2) Act 2026 No 21 12 May 2026 s 5: 12 May 2026 IN EXERCISE of the powers conferred upon me by virtue of Section 30 of the Parliamentary Powers, Privileges and Immunities Act 1976, I hereby make the following Rules:
+
+#### 1 Citation
+
+These rules may be called the Parliamentary Powers, Privileges and Immunities (Issue of Summons) Rules 2002 and shall come into force with immediate effect.
+
+#### 2 Forms
+
+The Rules set out in the Schedule as forms A to D shall be used in proceedings before the Parliament and other Parliamentary Committees including Select Committees, as the case may be.
+
+## SCHEDULE
+
+FORM A REPUBLIC OF NAOERO PARLIAMENT OF NAOERO PARLIAMENTARY POWERS, PRIVILEGES AND IMMUNITIES ACT 1976
+
+[Section 11; Rule 2]
+
+SUMMONS TO WITNESS To [here insert name, occupation, and address of witness].
+
+I am directed by the [here insert the Honourable Speaker/Committee] to summon you, to appear before OR You are hereby summoned to appear before [here insert the Bar of the Parliament or a description of the Committee as the case may be] on the ____________ day of ___________ 20_____, at ________ am/pm at [insert here documents required]; and you are required to continue in attendance as directed by the [here insert the Honourable Speaker or Chairperson of the Committee, as the case may be] until your attendance is no more required by the aforesaid authority.
+
+Given at ________ under my hand this __________ day of _________ 20_____.
+
+[Here insert Clerk of Parliament, or the Chairperson of the Committee as the case may be]
+
+[Form A am Act 21 of 2026 s 5, opn 12 May 2026]
+
+FORM B REPUBLIC OF NAOERO PARLIAMENT OF NAOERO PARLIAMENTARY POWERS, PRIVILEGES AND IMMUNITIES ACT 1976
+
+[Section 11; Rule 2]
+
+AFFIDAVIT OF SERVICE OF SUMMONS I, (a) __________________ of (b) _________________ make Oath and say that I did on ____________ day of ________________ 20_______, serve on (c) _________________ of
+
+(d) ___________________ the summons a true copy which is enclosed herewith.
+
+Sworn by me this ___________ day) DEPONENT Of ______________ 20______) COMMISSIONER FOR OATHS
+
+(a) Full name of Officer
+
+(b) Rank or designation of Officer
+
+(c) Full name of the person served with the summons
+
+(d) Place of service
+
+[Form B am Act 21 of 2026 s 5, opn 12 May 2026]
+
+FORM C REPUBLIC OF NAOERO PARLIAMENT OF NAOERO PARLIAMENTARY POWERS, PRIVILEGES AND IMMUNITIES ACT 1976
+
+[Section 12; Rule 2]
+
+CERTIFICATE TO BE GIVEN BY THE SPEAKER WHEN THE WITNESS HAS DISOBEYED SUMMONS WHEREAS [here insert name, occupation, and address of witness] has been summoned to appear before (here insert the Bar of the Parliament or a description of the Committee as the case may be) by the direction of the Speaker/Chairperson of the Committee (as the case may be) on ______ day of __________ 20 ________ at ________ am/pm at [here insert place], but has failed to appear in obedience to the summons/is found to have been wilfully avoiding being served with summons to appear before Parliament/Committee of (description to be given as the case may be); I have forthwith directed the Clerk of Parliament to apply to the District Court to apprehend and compel the said (here insert the name of the witness) and bring him before the (here insert the Honourable Speaker or Chairperson of the Committee as the case may be) on the _________ day of ____________ 20_______, at ___________ am/pm at (insert the place).
+
+Given at __________ the ___________ day of _________ 20_______
+
+[SPEAKER]
+
+[Form C am Act 21 of 2026 s 5, opn 12 May 2026]
+
+FORM D REPUBLIC OF NAOERO PARLIAMENT OF NAOERO PARLIAMENTARY POWERS, PRIVILEGES AND IMMUNITIES ACT 1976
+
+[Section 13; Rule 2]
+
+OATH AND AFFIRMATION A. OATH OF WITNESS I solemnly and sincerely declare that the evidence I shall give before the Committee shall be the truth, the whole truth, and nothing but the truth, so help me God! B. AFFIRMATION OF WITNESS I do solemnly and sincerely affirm and declare that the evidence I shall give before the Committee shall be the truth, the whole truth, and nothing but the truth.
+
+[Form D am Act 21 of 2026 s 5, opn 12 May 2026]

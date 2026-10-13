@@ -1,0 +1,93 @@
+---
+title: "Attachment of Earnings (Consolidated Attachment Orders) Rules 1974 - vol5"
+identifier: "417c57830d50f4c13e5f79a26ab7b2b0"
+type: regulation
+jurisdiction: nr
+language: en
+year: 1974
+consolidation: "Laws of the Republic of Naoero (consolidated reprint)"
+status: in_force
+source: "https://ronlaw.gov.nr/pdfviewer/docs%252Flaws%252F1974%252FAttachment%2520of%2520Earnings%2520%2528Consolidated%2520Attachment%2520Orders%2529%2520Rules%25201974%2520-%2520vol5.pdf"
+source_file: "/docs/laws/1974/Attachment of Earnings (Consolidated Attachment Orders) Rules 1974 - vol5.pdf"
+format_note: "text extracted (by RONLAW) from the official PDF; layout not preserved"
+retrieved: 2026-10-13
+---
+# Attachment of Earnings (Consolidated Attachment Orders) Rules 1974 - vol5
+
+Attachment of Earnings (Consolidated Attachment Orders) Rules 1974 TABLE OF PROVISIONS Rule Title
+
+#### 1 Citation
+
+#### 2 Interpretation
+
+#### 3 Power to make a consolidated attachment order
+
+#### 4 Application for a consolidated attachment order
+
+#### 5 Transfer of an attachment order
+
+Attachment of Earnings (Consolidated Attachment Orders) Rules 1974
+
+## Table of Amendments
+
+The Attachment of Earnings (Consolidated Attachment Orders) Rules 1974 were made and commenced on 13 November 1974.
+
+Amending Legislation Notified Date of Commencement Revised Written Laws Act 2021 No 7 1 June 2021 1 June 2021 IN EXERCISE of the powers conferred on me by Section 76 of the Civil Procedure Act 1972 and Section 17 of the Attachment of Earnings and Phosphate Royalties Act 1973, I hereby make the following rules of court:
+
+#### 1 Citation
+
+These Rules may be cited as the Attachment of Earnings (Consolidated Attachment Orders) Rules 1974.
+
+#### 2 Interpretation
+
+In these Rules:
+
+‘consolidated attachment order’ means an order made to attach earnings to secure any number of payments of the types referred to in subsection (1) of Section 3 of the Attachment of Earnings and Phosphate Royalties Act 1973;
+
+‘creditor’ includes a person entitled to receive payment of money under a maintenance order and a person to whom any fine, costs, compensation or penalty ordered by a court in any criminal proceedings is payable;
+
+‘debtor’ includes a person liable to pay money under a maintenance order or to pay a fine, costs, compensation or penalty ordered by a court in any criminal proceedings; and
+
+‘judgment debt’ includes money due under a maintenance order or as a fine, costs, compensation or penalty ordered by a court in any criminal proceedings.
+
+#### 3 Power to make a consolidated attachment order
+
+(1) Subject to the provisions of these Rules, any court may make a consolidated attachment order where:
+
+(a) two or more attachment of earnings orders are in force to secure the payments of two or more judgment debts by the same debtor; or
+
+(b) on an application for an attachment of earnings order to secure the payment of a judgment debt, or for a consolidated attachment order to secure the payment of two or more judgment debts it appears to the court that an attachment of earnings order is already in force to secure the payment of a judgment debt by the same debtor.
+
+#### 4 Application for a consolidated attachment order
+
+(1) An application for a consolidated attachment order may be made:
+
+(a) by the debtor in respect of whom the order is sought; or
+
+(b) by any person who had obtained or is entitled to apply for an attachment of earnings order to secure the payment of a judgment debt by the debtor.
+
+(2) An application by the debtor for a consolidated attachment of earnings order may be made:
+
+(a) by summons in the proceedings in which any attachment of earnings order is in force to secure the payment of a judgment debt by the debtor; or
+
+(b) orally at the hearing of any application for such an order.
+
+Written notice of the application and of the date, time and place for it to be heard shall be given by the Registrar of Courts or Deputy Registrar of the court to any creditor in any other proceedings who has obtained an attachment of earnings order to secure the payment of a judgment debt by the same debtor.
+
+(3) An application by a creditor for a consolidated attachment order shall be made by summons in the proceedings in which the judgment or order sought to be enforced was obtained. Written notice of the application and of the date, time and place for it to be heard shall be given by the Registrar of Courts or Deputy Registrar of the court to any creditor in any other proceedings who has obtained an attachment of earnings order to secure the payment of a judgment debt by the same debtor.
+
+(4) A person to whom two or more attachment of earnings orders are directed to secure the payment of judgment debts by the same debtor may request the court or, if they were made by different courts, either of the courts, in writing to make a consolidated attachment order to secure the payment of those debts, and on receipt of such a request the Registrar of Courts or Deputy Registrar of the court shall fix a date, time and place at which the request will be considered and shall give written notice thereof to the debtor and the creditors who obtained the attachment of earnings orders.
+
+(5) Where an application is made for an attachment of earnings order to secure the payment of a judgment debt by a debtor in respect of whom an attachment of earnings order is already, in force to secure the payment of another judgment debt and no application is made for a consolidated attachment order the court to which the application is made may make such an order of its own motion after giving an opportunity of being heard to the debtor and the creditor in the proceedings in which the application is made and any creditor in any other proceedings who has obtained an attachment of earnings order to secure the payment of a judgment debt by the same debtor.
+
+(6) Where a consolidated attachment order is in force to secure the payment of two or more judgment debts any creditor to whom another judgment debt is owed by the same debtor may apply to the court by which the order was made by summons addressed to the debtor and to every creditor to whom monies are payable under the consolidated attachment order, for the order to be extended so as to secure the payment of that debt as well as the first-mentioned debts and, if the application is granted, the court may either vary the order accordingly or may discharge it and make a new consolidated attachment order to secure payment of all the aforesaid judgment debts.
+
+(7) An application under subrule (6) shall be treated for the purposes of the preceding paragraphs of this rule as an application for a consolidated attachment order.
+
+(8) Instead of complying with Section 13 of the Act, the Registrar of Courts or Deputy Registrar who receives payments made to him or her in compliance with a consolidated attachment order shall, after deducting such court fees, if any, in respect of proceedings for or arising out of the order as are deductible from those payments, deal with the sums paid as he or she would if they had been paid by the debtor to satisfy the relevant adjudications in proportion to the amounts payable thereunder or in such r 4LAWS OF THE REPUBLIC OF NAURU other proportion as the court which made the consolidated attachment order may direct, and for that purpose dividends may from time to time be declared and distributed among the creditors entitled thereto.
+
+#### 5 Transfer of an attachment order
+
+(1) Where the court by which the question of making a consolidated attachment order falls to be considered is not the court by which any attachment of earnings order has been made to secure the payment of a judgment debt by the debtor, the Registrar of Courts or Deputy Registrar of the last-mentioned court shall, at the request of the Registrar of Courts or Deputy Registrar of the first-mentioned court, transfer to that court the matter in which the attachment of earnings order was made.
+
+(2) The court to which proceedings arising out of an attachment of earnings order are transferred under this Rule shall have the same jurisdiction in relation to the order as if it had been made by that court. r 5 ATTACHMENT OF EARNINGS (CONSOLIDATED ATTACHMENT ORDERS) RULES 1974

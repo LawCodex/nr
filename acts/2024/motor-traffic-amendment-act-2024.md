@@ -1,0 +1,37 @@
+---
+title: "Motor Traffic (Amendment) Act 2024"
+identifier: "442ea3f2e5edff5f1b90bc5390312b95"
+type: act
+jurisdiction: nr
+language: en
+year: 2024
+consolidation: "none (text as published)"
+status: unknown
+source: "https://ronlaw.gov.nr/pdfviewer/docs%252Facts%252F2024%252FMotor%2520Traffic%2520%2528Amendment%2529%2520Act%25202024.pdf"
+source_file: "/docs/acts/2024/Motor Traffic (Amendment) Act 2024.pdf"
+format_note: "text extracted (by RONLAW) from the official PDF; layout not preserved"
+retrieved: 2026-10-13
+---
+# Motor Traffic (Amendment) Act 2024
+
+_____________________________ No.  2 of 2024 ______________________________ An Act to amend the Motor Traffic Act 2014 to include electric vehicles and for related purposes.
+
+Certified: 5 April 2024 Table of Provisions Enacted by the Parliament of Nauru as follows:
+
+#### 1 Short title
+
+This Act may be cited as the Motor Traffic (Amendment) Act 2024.
+
+#### 2 Commencement
+
+This Act commences on the date it is certified by the Speaker.
+
+#### 3 Amendment of the Motor Traffic Act 2014
+
+The Motor Traffic Act 2014 is amended by the provisions of this Act.
+
+#### 4 Section 5 amended
+
+Section 5 is amended in the definition of ‘motor vehicle’ by inserting ‘vehicle with motor power wholly or partly derived from an external source of electricity,’ after
+
+‘includes a’.
